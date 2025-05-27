@@ -4,17 +4,15 @@ A desktop GUI application built using PyQt6 and MySQL, designed to manage and di
 🔧 Key Features
 💸 Purchase Interface
 --
-Input transaction ID, customer name, selected book, and quantity.
-
-Automatically calculates subtotal and total (with tax).
-
-Saves transaction details to a MySQL database.
+* Input transaction ID, customer name, selected book, and quantity.
+* Automatically calculates subtotal and total (with tax).
+* Saves transaction details to a MySQL database.
 
 🔍 Search Interface
+--
+**Choose a book from a dropdown to view its average sale price.
 
-Choose a book from a dropdown to view its average sale price.
-
-View all past transactions associated with the selected book.
+**View all past transactions associated with the selected book.
 
 📊 Display Interface
 
