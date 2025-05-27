@@ -1,9 +1,9 @@
 # 📚 Book Sales Management System (PyQt6 + MySQL)
-# A desktop GUI application built using PyQt6 and MySQL, designed to manage and display book sales transactions. This system enables users to perform purchases, view transaction history, and analyze book-specific data with ease.
+A desktop GUI application built using PyQt6 and MySQL, designed to manage and display book sales transactions. This system enables users to perform purchases, view transaction history, and analyze book-specific data with ease.
 
 🔧 Key Features
 💸 Purchase Interface
-
+--
 Input transaction ID, customer name, selected book, and quantity.
 
 Automatically calculates subtotal and total (with tax).
