@@ -10,27 +10,22 @@ A desktop GUI application built using PyQt6 and MySQL, designed to manage and di
 
 🔍 Search Interface
 --
-**Choose a book from a dropdown to view its average sale price.
-
-**View all past transactions associated with the selected book.
+*Choose a book from a dropdown to view its average sale price.
+*View all past transactions associated with the selected book.
 
 📊 Display Interface
-
-Displays a complete table of all book transactions stored in the database.
+--
+* Displays a complete table of all book transactions stored in the database.
 
 🖥️ Dashboard
-
-Acts as the main navigation window.
-
-Launches the Purchase, Search, and Display modules from one place.
+--
+* Acts as the main navigation window.
+* Launches the Purchase, Search, and Display modules from one place.
 
 🧠 Technologies Used
-Python 3.x
-
-PyQt6
-
-MySQL (via PyMySQL)
-
-Object-Oriented Programming (OOP)
-
-pyuic6 (UI conversion from .ui XML files)
+--
+* Python 3.x
+* PyQt6
+* MySQL (via PyMySQL)
+* Object-Oriented Programming (OOP)
+* pyuic6 (UI conversion from .ui XML files)
